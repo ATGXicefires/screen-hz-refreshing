@@ -1,3 +1,9 @@
+########################################
+#                                      #
+#        Made by ATGXicefires          #
+#                                      #
+########################################
+
 import win32api
 from screeninfo import get_monitors
 import ctypes
