@@ -22,7 +22,6 @@ class SystemTrayIcon(object):
 
     def create_tray_icon(self):
         # 建立系統托盤圖示 (這部分比較複雜，需要查閱 Windows API 文件)
-        # ... (省略，你可以參考 PyQt5 系統托盤範例或自行查閱相關資料)
         pass
 
     def show_window(self):
@@ -35,7 +34,6 @@ class SystemTrayIcon(object):
 
     def process_messages(self):
         # 處理 Windows 訊息 (這部分比較複雜，需要查閱 Windows API 文件)
-        # ... (省略)
         pass
 
 # 新增 Windows API 結構和常數
